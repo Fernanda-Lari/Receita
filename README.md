@@ -8,4 +8,5 @@ aprendido (uma nova tag: ul)
   <li> CSS </li>
 </ul>
 <h1> Autor</h1>
-<h2> Larissa Fernanda Oliveira de França</h2>
+<h3>Larissa Fernanda O. de França </h3>
+email: <a href="mailto:contato.larifernanda@gmail.com">contato.larifernanda@gmail.com</a>
